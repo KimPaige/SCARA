@@ -1,0 +1,2 @@
+# SCARA
+ENGR110 SCARA Arm project
